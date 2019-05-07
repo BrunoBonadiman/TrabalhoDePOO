@@ -1,0 +1,7 @@
+C:\Users\Bruno Bonadiman\source\repos\Sistema_de_Banco\Sistema_de_Banco\bin\Debug\Sistema_de_Banco.exe.config
+C:\Users\Bruno Bonadiman\source\repos\Sistema_de_Banco\Sistema_de_Banco\bin\Debug\Sistema_de_Banco.exe
+C:\Users\Bruno Bonadiman\source\repos\Sistema_de_Banco\Sistema_de_Banco\bin\Debug\Sistema_de_Banco.pdb
+C:\Users\Bruno Bonadiman\source\repos\Sistema_de_Banco\Sistema_de_Banco\obj\Debug\Sistema_de_Banco.csprojAssemblyReference.cache
+C:\Users\Bruno Bonadiman\source\repos\Sistema_de_Banco\Sistema_de_Banco\obj\Debug\Sistema_de_Banco.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Bonadiman\source\repos\Sistema_de_Banco\Sistema_de_Banco\obj\Debug\Sistema_de_Banco.exe
+C:\Users\Bruno Bonadiman\source\repos\Sistema_de_Banco\Sistema_de_Banco\obj\Debug\Sistema_de_Banco.pdb
