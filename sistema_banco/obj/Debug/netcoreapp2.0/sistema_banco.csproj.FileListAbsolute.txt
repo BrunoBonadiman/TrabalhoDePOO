@@ -1,0 +1,11 @@
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\bin\Debug\netcoreapp2.0\sistema_banco.deps.json
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\bin\Debug\netcoreapp2.0\sistema_banco.runtimeconfig.json
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\bin\Debug\netcoreapp2.0\sistema_banco.runtimeconfig.dev.json
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\bin\Debug\netcoreapp2.0\sistema_banco.dll
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\bin\Debug\netcoreapp2.0\sistema_banco.pdb
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\obj\Debug\netcoreapp2.0\sistema_banco.csprojAssemblyReference.cache
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\obj\Debug\netcoreapp2.0\sistema_banco.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\obj\Debug\netcoreapp2.0\sistema_banco.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\obj\Debug\netcoreapp2.0\sistema_banco.AssemblyInfo.cs
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\obj\Debug\netcoreapp2.0\sistema_banco.dll
+C:\Users\vinic\source\repos\sistema_banco\sistema_banco\obj\Debug\netcoreapp2.0\sistema_banco.pdb
